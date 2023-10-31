@@ -38,9 +38,9 @@ namespace StoringandUpdatingTeacherRecordsITXTF
                     String section = Console.ReadLine();
 
                     Teacher t1 = new Teacher(id, name, classNum, section);
-                    Console.WriteLine("{0} \t {1} \t {2} \t {3}", t1.Id, t1.Name, t1.ClassNum, t1.Section);
+                    sw.WriteLine("{0} \t\t {1} \t\t {2} \t\t {3}", t1.Id, t1.Name, t1.ClassNum, t1.Section);
                 Console.WriteLine("new teacher data added successfully!\n");
-                }
+            }
                 catch (IOException ex)
                 {
                     Console.WriteLine(ex.Message);

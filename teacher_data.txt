@@ -12,3 +12,4 @@ ID 		 Name 		 Class 		 Section
 6 		 den 		 2 		 B
 5 		 ben 		 2 		 C
 7 		 MONA 		 2 		 A
+12 		 ravi 		 4 		 4
