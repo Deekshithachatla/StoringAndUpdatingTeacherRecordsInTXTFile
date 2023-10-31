@@ -1,15 +1,4 @@
 Teachers Records
 ID 		 Name 		 Class 		 Section
-
-
-1 		 wendy 		 1 		 A
-3 		 bendy 		 2 		 B
-4 		 sana 		 2 		 A
-6 		 raju 		 2 		 A
-8 		 kaju 		 4 		 B
-9 		 sand 		 2 		 A
-1 		 rada 		 1 		 A
-6 		 den 		 2 		 B
-5 		 ben 		 2 		 C
-7 		 MONA 		 2 		 A
-12 		 ravi 		 4 		 4
+1 		 werty 		 1 		 B
+2 		 don 		 4 		 C
